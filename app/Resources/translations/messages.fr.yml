@@ -1,7 +1,7 @@
 views:
-    title: "Les peintures d'Antoine"
+    title: "Freddy Plomberie"
     navbar:
-        title: "Les peintures d'Antoine"
+        title: "Freddy Plomberie"
         menu: "Menu"
         return: "Retour"
         login: "Connexion"
@@ -12,7 +12,7 @@ views:
         actionitem: "Travaux"
         listconstructionsite: "Mes Chantiers"
     footer:
-        title: Les peintures d'Antoine, votre spécialiste peintures sur ARRAS et sa région.
+        title: Freddy Plomberie, votre spécialiste sur ARRAS et sa région.
         powered: Powered By zimzim62000
 button:
     show: Voir

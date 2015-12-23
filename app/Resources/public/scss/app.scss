@@ -1,9 +1,9 @@
 @import "normalize";
 @import "_settings";
-@import "_plaz_settings";
+@import "_freddy_settings";
 @import "_foundation_mod";
-@import "_icoonmoon";
 @import "_color";
+@import "_icoonmoon";
 @import "_owlcarousel";
 
 nav li.name a{
@@ -27,4 +27,11 @@ img.img-medium{
 }
 .nopadding{
     padding: 0 !important;
+}
+
+footer.footer{
+    background: $primary-color;
+    p, a, h4,h5,h6{
+        color : $white;
+    }
 }

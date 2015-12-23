@@ -20,7 +20,7 @@
 
 /app/Resources/public/scss/*
 !/app/Resources/public/scss/app.scss
-!/app/Resources/public/scss/_plaz_settings.scss
+!/app/Resources/public/scss/_freddy_settings.scss
 !/app/Resources/public/scss/_color.scss
 !/app/Resources/public/scss/_icoonmoon.scss
 !/app/Resources/public/scss/_owlcarousel.scss
