@@ -53,7 +53,7 @@ module.exports = function(grunt){
                     {src: 'bower_components/foundation/scss/foundation/_functions.scss', dest: 'app/Resources/public/scss/_functions.scss'},
                     {src: 'bower_components/foundation/scss/foundation.scss', dest: 'app/Resources/public/scss/_foundation_mod.scss'},
                     {src: 'bower_components/jquery/dist/jquery.min.js', dest: 'app/Resources/public/js/vendor/jquery.min.js'},
-                    {src: 'bower_components/modernizr/modernizr.js', dest: 'app/Resources/public/js/vendor/modernizr.js'},
+                    {src: 'bower_components/modernizr/src/Modernizr.js', dest: 'app/Resources/public/js/vendor/modernizr.js'},
                     {src: 'bower_components/foundation/js/foundation.min.js', dest: 'app/Resources/public/js/vendor/foundation.min.js'},
                     {src: 'bower_components/foundation/js/foundation/foundation.topbar.js', dest: 'app/Resources/public/js/vendor/foundation.topbar.js'},
                     {src: 'bower_components/owlcarousel/owl-carousel/owl.carousel.min.js', dest: 'app/Resources/public/js/vendor/owl.carousel.min.js'}

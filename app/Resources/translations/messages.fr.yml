@@ -1,7 +1,7 @@
 views:
-    title: "Freddy Plomberie"
+    title: "CMA Design"
     navbar:
-        title: "Freddy Plomberie"
+        title: "CMA Design"
         menu: "Menu"
         return: "Retour"
         login: "Connexion"
@@ -12,7 +12,7 @@ views:
         actionitem: "Travaux"
         listconstructionsite: "Mes Chantiers"
     footer:
-        title: Freddy Plomberie, votre spécialiste sur ARRAS et sa région.
+        title: CMA Design, votre spécialiste sur ARRAS et sa région.
         powered: Powered By zimzim62000
 button:
     show: Voir
